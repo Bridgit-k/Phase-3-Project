@@ -58,7 +58,7 @@ This prevents the "Bill Shock" that is currently driving them away.
 
 ## Next Steps
 * Cost-Benefit Analysis:
-We have a model that finds churners. But does saving them cost more than letting them go?"
+ We have a model that finds churners. But does saving them cost more than letting them go?"
 My next step would be to calculate the Return on Investment of this model. We need to determine if giving a $20 discount to the customers identified by the model is profitable compared to the revenue lost if they leave.
 
 * Test the solutions you come up with in a small portion before implementing it to the whole business.
